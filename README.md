@@ -1,2 +1,2 @@
 # github_lecture
-강의
+힘들어
